@@ -3,9 +3,11 @@
 \docType{data}
 \title{
 %%   ~~ data name/kind ... ~~
+mydata2 is a vector.
 }
 \description{
 %%  ~~ A concise (1-5 lines) description of the dataset. ~~
+integers from 1 to 100.
 }
 \usage{data("mydata2")}
 \format{
