@@ -16,9 +16,11 @@ integers from 1 to 100.
 }
 \details{
 %%  ~~ If necessary, more details than the __description__ above ~~
+no details.
 }
 \source{
 %%  ~~ reference to a publication or URL from which the data were obtained ~~
+no source.
 }
 \references{
 %%  ~~ possibly secondary sources and usages ~~
